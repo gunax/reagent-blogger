@@ -5,7 +5,8 @@
 .shadow-cljs/
 /node_modules
 /target
-/public/js
+public/js/
 .DS_Store
 .nrepl-port
 .cpcache/
+public/js/main.js
